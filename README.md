@@ -42,13 +42,13 @@
 
 
 ### 💫 About Me:
-🔭 I'm Jash Hinger, a DevOps Engineer with expertise in Docker, Kubernetes, AWS, Ansible, Terraform, Jenkins, Prometheus, Grafana, and more.  
+🔭 I'm Jash Hinger, a **DevOps Engineer** with expertise in Docker, Kubernetes, AWS, Ansible, Terraform, Jenkins, Prometheus, Grafana, Helm, ArgoCD, and more.  
 
 🤝 I’m also enhancing my skills in full stack development, focusing on Linux, Shell Scripting, and backend technologies like Node.js, Express.js, MySQL, and REST APIs.
 
 🌱 I’m proficient in C++, JavaScript, and Python, and familiar with frontend technologies such as HTML, JavaScript, and React-JS.
 
-💬 Feel free to ask me anything about software development, competitive coding, automation techniques, **logic building**, or **learning strategies**.  
+💬 Feel free to ask me anything about software development, competitive coding, automation techniques, logic building, or learning strategies.  
 
 ⚡ Fun fact: I encounter merge conflicts every time I perform a git pull!
 
