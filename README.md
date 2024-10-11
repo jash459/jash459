@@ -50,7 +50,7 @@
 
 💬 Feel free to ask me anything about software development, competitive coding, automation techniques, logic building, or learning strategies.  
 
-⚡ Fun fact: I encounter merge conflicts every time I perform a git pull!
+⚡ Fun fact: I measure time by deployment cycles, not hours.
 
 <br/>
 
