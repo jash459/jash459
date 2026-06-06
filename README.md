@@ -42,15 +42,15 @@
 
 
 ### 💫 About Me:
-🔭 I'm Jash Hinger, a **DevOps Engineer** with expertise in Docker, Kubernetes, AWS, Ansible, Terraform, Jenkins, Golang, Prometheus, Grafana, Helm, ArgoCD, and more.  
+🔭 I'm Jash Hinger, a System Development Engineer at Amazon, passionate about building scalable, reliable, and automated systems. My expertise includes AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, Golang, Prometheus, Grafana, Helm, ArgoCD, and cloud-native technologies.
 
-🤝 I’m also enhancing my skills in full stack development, focusing on Linux, Shell Scripting, and backend technologies like Node.js, Express.js, MySQL, and REST APIs.
+🤝 I'm continuously expanding my knowledge in software engineering, backend development, Linux, Shell Scripting, distributed systems, and infrastructure automation.
 
-🌱 I’m proficient in C++, JavaScript, and Python, and familiar with frontend technologies such as HTML, JavaScript, and React-JS.
+🌱 I work with Java, JavaScript, Python, C++, Node.js, Express.js, MySQL, REST APIs, and modern DevOps practices to design and deliver efficient solutions.
 
-💬 Feel free to ask me anything about software development, competitive coding, automation techniques, logic building, or learning strategies.  
+💬 Feel free to ask me about system design, cloud computing, DevOps, software development, automation, competitive programming, interview preparation, or career growth in tech.
 
-⚡ Fun fact: I measure time by deployment cycles, not hours.
+⚡ Fun fact: I measure time in deployment cycles, not hours.
 
 <br/>
 
